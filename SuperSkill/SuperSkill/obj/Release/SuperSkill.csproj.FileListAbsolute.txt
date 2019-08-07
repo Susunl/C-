@@ -1,0 +1,11 @@
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\bin\Release\SuperSkill.exe.config
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\bin\Release\SuperSkill.exe
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\bin\Release\SuperSkill.pdb
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.Form1.resources
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.Properties.Resources.resources
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.csproj.GenerateResource.cache
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.csproj.CoreCompileInputs.cache
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.exe
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.pdb
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.Form2.resources
+C:\Users\Susunl\source\repos\SuperSkill\SuperSkill\obj\Release\SuperSkill.csprojAssemblyReference.cache
